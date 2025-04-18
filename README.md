@@ -1,4 +1,4 @@
-# Football Highlight Wizard
+# Footballo Highlight Wizardo
 
 A C++ application to identify potential highlights from a football (soccer) game event log.
 
